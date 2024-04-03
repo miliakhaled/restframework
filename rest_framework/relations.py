@@ -1,4 +1,5 @@
 import contextlib
+from graphql_relay import from_global_id
 import sys
 from operator import attrgetter
 from urllib import parse
